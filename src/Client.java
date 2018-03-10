@@ -46,6 +46,7 @@ public class Client extends JFrame implements ActionListener {
 			}
 		};
 	}
+	
 
 	public void actionPerformed(ActionEvent e) {
 		//
